@@ -1,9 +1,7 @@
-package conjuntos;
+package com.cice.conjuntos;
 
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.List;
-import java.util.stream.Collectors;
 
 public class Conjuntos {
     public static void main(String[] args) {

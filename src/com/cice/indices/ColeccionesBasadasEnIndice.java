@@ -1,4 +1,4 @@
-package indices;
+package com.cice.indices;
 
 import java.util.ArrayList;
 

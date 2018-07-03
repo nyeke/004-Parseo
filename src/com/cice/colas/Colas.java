@@ -1,4 +1,4 @@
-package colas;
+package com.cice.colas;
 
 import java.util.PriorityQueue;
 

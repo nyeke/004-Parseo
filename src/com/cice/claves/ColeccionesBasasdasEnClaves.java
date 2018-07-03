@@ -1,4 +1,4 @@
-package claves;
+package com.cice.claves;
 
 import java.util.HashMap;
 import java.util.Hashtable;
